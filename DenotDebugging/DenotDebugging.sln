@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetDebugging", "DotnetDebugging\DotnetDebugging.csproj", "{D7DEB003-95E7-4954-9CA2-0E85CE1DF05B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module8", "..\module8\module8.csproj", "{0F735BC0-E11E-4D67-A471-FE9B1E1223BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7DEB003-95E7-4954-9CA2-0E85CE1DF05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DEB003-95E7-4954-9CA2-0E85CE1DF05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DEB003-95E7-4954-9CA2-0E85CE1DF05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DEB003-95E7-4954-9CA2-0E85CE1DF05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F735BC0-E11E-4D67-A471-FE9B1E1223BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F735BC0-E11E-4D67-A471-FE9B1E1223BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F735BC0-E11E-4D67-A471-FE9B1E1223BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F735BC0-E11E-4D67-A471-FE9B1E1223BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

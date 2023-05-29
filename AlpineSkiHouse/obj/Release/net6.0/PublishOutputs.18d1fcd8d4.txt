@@ -1,0 +1,7 @@
+C:\Users\Admin\AppData\Local\Temp\rider-publish6242188075054199880\AlpineSkiHouse.exe
+C:\Users\Admin\AppData\Local\Temp\rider-publish6242188075054199880\appsettings.Development.json
+C:\Users\Admin\AppData\Local\Temp\rider-publish6242188075054199880\appsettings.json
+C:\Users\Admin\AppData\Local\Temp\rider-publish6242188075054199880\AlpineSkiHouse.dll
+C:\Users\Admin\AppData\Local\Temp\rider-publish6242188075054199880\AlpineSkiHouse.deps.json
+C:\Users\Admin\AppData\Local\Temp\rider-publish6242188075054199880\AlpineSkiHouse.runtimeconfig.json
+C:\Users\Admin\AppData\Local\Temp\rider-publish6242188075054199880\AlpineSkiHouse.pdb

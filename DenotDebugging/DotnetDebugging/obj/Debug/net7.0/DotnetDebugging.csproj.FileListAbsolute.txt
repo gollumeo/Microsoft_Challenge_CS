@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\bin\Debug\net7.0\DotnetDebugging.exe
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\bin\Debug\net7.0\DotnetDebugging.deps.json
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\bin\Debug\net7.0\DotnetDebugging.runtimeconfig.json
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\bin\Debug\net7.0\DotnetDebugging.dll
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\bin\Debug\net7.0\DotnetDebugging.pdb
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\DotnetDebugging.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\DotnetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\DotnetDebugging.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\DotnetDebugging.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\DotnetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\DotnetDebugging.dll
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\refint\DotnetDebugging.dll
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\DotnetDebugging.pdb
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\DotnetDebugging.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Projects\Microsoft\C#_Challenge\DenotDebugging\DotnetDebugging\obj\Debug\net7.0\ref\DotnetDebugging.dll
