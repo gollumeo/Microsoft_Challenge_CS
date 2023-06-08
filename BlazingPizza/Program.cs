@@ -1,5 +1,4 @@
-using BlazingPizza.Data;
-using BlazingPizza.Services;
+using BlazingPizza;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +23,7 @@ app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
 app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
 
+// Initialize the database
 var scopeFactory = app.Services.GetRequiredService<IServiceScopeFactory>();
 using (var scope = scopeFactory.CreateScope())
 {
@@ -36,3 +36,4 @@ using (var scope = scopeFactory.CreateScope())
 
 
 app.Run();
+
